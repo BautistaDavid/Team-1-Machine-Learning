@@ -1,0 +1,19 @@
+RL,Equipo,PJ,PG,PE,PP,GF,GC,DG,Pts,Asistencia,Máximo Goleador del Equipo,Portero,Notas
+1,Porto,34,26,4,4,74,22,+52,82,25147,Moussa Marega - 12,Agustín Marchesín,→ UEFA Champions League Por el final de liga
+2,Benfica,34,24,5,5,71,26,+45,77,37044,Carlos Vinícius - 19,Odisseas Vlachodimos,→ UEFA Champions League Por el final de liga
+3,Braga,34,18,6,10,61,40,+21,60,7473,Paulinho - 16,Matheus,→ UEFA Europa League Por el final de liga 1
+4,Sporting CP,34,18,6,10,49,34,+15,60,21342,Bruno Fernandes - 8,Luís Maximiano,→ UEFA Europa League Por el final de liga
+5,Rio Ave,34,15,10,9,48,36,+12,55,1838,Mehdi Taremi - 18,Paweł Kieszek,→ UEFA Europa League Por el final de liga
+6,Famalicão,34,14,12,8,53,51,+2,54,2929,Fábio Martins - 12,Rafael Defendi,
+7,Vitória,34,13,11,10,53,38,+15,50,11936,João Carlos Teixeira Bruno Duarte - 8,Douglas,
+8,Moreirense,34,10,13,11,42,44,-2,43,1573,Fábio Abreu - 13,Mateus Pasinato,
+9,Santa Clara,34,11,10,13,36,41,-5,43,2224,Carlos - 7,Marco André Rocha Pereira,
+10,Gil Vicente FC,34,11,10,13,40,44,-4,43,3873,Sandro Lima - 10,Denis,
+11,Marítimo,34,9,12,13,34,42,-8,39,4283,Rodrigo Pinho - 10,Amir Abedzadeh,
+12,Boavista,34,10,9,15,28,39,-11,39,8532,Alberto Bueno Heriberto Tavares - 3,Helton Leite,
+13,Paços,34,11,6,17,36,52,-16,39,2472,Douglas Tanque - 11,Ricardo Ribeiro,
+14,Tondela,34,9,9,16,30,44,-14,36,1696,Ronan - 5,Cláudio Ramos,
+15,Belenenses,34,9,8,17,27,54,-27,35,2544,Licá - 7,Hervé Koffi,
+16,Vitória Setúbal,34,7,13,14,27,43,-16,34,3268,Hélder Guedes Carlinhos - 4,Giorgi Makaridze,Descendido 2
+17,Portimonense,34,7,12,15,30,45,-15,33,2042,Dener - 6,Ricardo Abel Barbosa Ferreira,Retenido 3
+18,Aves,34,5,2,27,24,68,-44,17,1390,Mehrdad Mohammadi - 8,Quentin Beunardeau,Descendido 4
