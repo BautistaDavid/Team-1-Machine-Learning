@@ -1,0 +1,19 @@
+RL,Equipo,PJ,PG,PE,PP,GF,GC,DG,Pts,Asistencia,Máximo Goleador del Equipo,Portero,Notas
+1,Sporting CP,34,26,7,1,65,20,+45,85,,Pedro Gonçalves - 23,Antonio Adán,→ UEFA Champions League Por el final de liga
+2,Porto,34,24,8,2,74,29,+45,80,,Mehdi Taremi - 16,Agustín Marchesín,→ UEFA Champions League Por el final de liga
+3,Benfica,34,23,7,4,69,27,+42,76,,Haris Seferović - 22,Odisseas Vlachodimos,→ UEFA Champions League Por el final de liga
+4,Braga,34,19,7,8,53,33,+20,64,,Ricardo Horta - 9,Matheus,→ UEFA Europa League Por ganar la copa
+5,Paços,34,15,8,11,40,41,-1,53,,Douglas Tanque - 9,Jordi Almeida,→ UEFA Europa Conference League Por el final de liga
+6,Santa Clara,34,13,7,14,44,36,+8,46,125,Carlos - 14,Marco André Rocha Pereira,→ UEFA Europa Conference League Por el final de liga
+7,Vitória,34,12,7,15,37,44,-7,43,,Oscar Estupiñan - 8,Bruno Varela,
+8,Moreirense,34,10,13,11,37,43,-6,43,,Rafael Martins - 7,Mateus Pasinato,
+9,Famalicão,34,10,10,14,40,48,-8,40,,Ivo Rodrigues Anderson - 6,Luiz Lúcio Reis Júnior,
+10,Belenenses,34,9,13,12,25,35,-10,40,,Mateo Cassierra - 10,Stanislav Kritsyuk,
+11,Gil Vicente FC,34,11,6,17,33,42,-9,39,,Samuel - 9,Denis,
+12,Tondela,34,10,6,18,36,57,-21,36,8,Mario González - 15,Pedro Trigueira,
+13,Boavista,34,8,12,14,39,49,-10,36,,Alberth Elis - 8,Leonardo César Jardim,
+14,Portimonense,34,9,8,17,34,41,-7,35,,Beto - 11,Samuel Portugal,
+15,Marítimo,34,10,5,19,27,47,-20,35,,Rodrigo Pinho Diederrick Joel - 9,Amir Abedzadeh,
+16,Rio Ave,34,7,13,14,25,40,-15,34,,Carlos Mané - 6,Paweł Kieszek,→ Portuguese 1/2 Relegation/Promotion Play-off
+17,SC Farense,34,7,10,17,31,48,-17,31,,Ryan Gauld - 9,Rafael Defendi,Descendido
+18,Nacional,34,6,7,21,30,59,-29,25,,Bryan Róchez - 6,Daniel Guimarães,Descendido
